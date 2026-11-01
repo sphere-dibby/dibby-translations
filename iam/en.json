@@ -152,7 +152,11 @@
         "title": "Dibby app",
         "heading": "Open this with the Dibby app",
         "text": "This link signs you in with the Dibby app. Scan the code on the sign-in page with the camera of the phone that has the Dibby app."
-      }
+      },
+      "pushSent": "We sent a notification to the Dibby app of",
+      "notYou": "Not you?",
+      "pushPrompt": "Or get a notification on your phone:",
+      "pushSend": "Send"
     }
   },
   "consent": {

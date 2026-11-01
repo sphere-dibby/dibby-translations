@@ -152,7 +152,11 @@
         "title": "App de Dibby",
         "heading": "Abre esto con la app de Dibby",
         "text": "Este enlace inicia sesión con la app de Dibby. Escanea el código de la página de inicio de sesión con la cámara del teléfono que tiene la app de Dibby."
-      }
+      },
+      "pushSent": "Hemos enviado una notificación a la app de Dibby de",
+      "notYou": "¿No eres tú?",
+      "pushPrompt": "O recibe una notificación en tu teléfono:",
+      "pushSend": "Enviar"
     }
   },
   "consent": {
