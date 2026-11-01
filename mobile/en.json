@@ -395,5 +395,22 @@
     "addReceipt": "Add a receipt to ${applicationName}",
     "addLoyaltyCard": "Add a loyalty card to ${applicationName}",
     "addCardIn": "Add a card in ${applicationName}"
+  },
+  "approve": {
+    "title": "Sign in with Dibby",
+    "question": "Sign in to %@?",
+    "from": "Requested from %@",
+    "pickNumber": "Tap the number shown on the screen where you're signing in.",
+    "number": "Number %ld",
+    "confirm": "Sign in",
+    "decline": "This wasn't me",
+    "reason": "Confirm the sign-in",
+    "doneHere": "You're signed in. Your browser continues.",
+    "doneOther": "You're signed in on your other device.",
+    "declined": "The sign-in was declined.",
+    "expired": "This sign-in has expired or was already used. Start again on the sign-in page.",
+    "wrongNumber": "That wasn't the number on the screen, so the sign-in was declined. Start again on the sign-in page.",
+    "failed": "The sign-in couldn't be approved. Please try again.",
+    "offline": "Approving a sign-in needs an internet connection."
   }
 }

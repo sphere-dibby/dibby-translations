@@ -395,5 +395,22 @@
     "addReceipt": "Voeg een bonnetje toe aan ${applicationName}",
     "addLoyaltyCard": "Voeg een klantenkaart toe aan ${applicationName}",
     "addCardIn": "Voeg een pasje toe in ${applicationName}"
+  },
+  "approve": {
+    "title": "Inloggen met Dibby",
+    "question": "Inloggen bij %@?",
+    "from": "Aangevraagd vanaf %@",
+    "pickNumber": "Tik op het getal dat op het scherm staat waar je inlogt.",
+    "number": "Getal %ld",
+    "confirm": "Inloggen",
+    "decline": "Dit was ik niet",
+    "reason": "Bevestig het inloggen",
+    "doneHere": "Je bent ingelogd. Je browser gaat verder.",
+    "doneOther": "Je bent ingelogd op je andere apparaat.",
+    "declined": "Het inloggen is geweigerd.",
+    "expired": "Dit inlogverzoek is verlopen of al gebruikt. Begin opnieuw op de inlogpagina.",
+    "wrongNumber": "Dat was niet het getal op het scherm, dus het inloggen is geweigerd. Begin opnieuw op de inlogpagina.",
+    "failed": "Het inloggen kon niet worden goedgekeurd. Probeer het opnieuw.",
+    "offline": "Voor het goedkeuren van een inlogverzoek is een internetverbinding nodig."
   }
 }
