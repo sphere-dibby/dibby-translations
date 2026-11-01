@@ -152,7 +152,11 @@
         "title": "Dibby-app",
         "heading": "Open dit met de Dibby-app",
         "text": "Met deze link log je in met de Dibby-app. Scan de code op de inlogpagina met de camera van de telefoon met de Dibby-app."
-      }
+      },
+      "pushSent": "We hebben een melding gestuurd naar de Dibby-app van",
+      "notYou": "Niet jij?",
+      "pushPrompt": "Of krijg een melding op je telefoon:",
+      "pushSend": "Versturen"
     }
   },
   "consent": {

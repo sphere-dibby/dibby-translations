@@ -152,7 +152,11 @@
         "title": "App Dibby",
         "heading": "Ouvrez ceci avec l'app Dibby",
         "text": "Ce lien vous connecte avec l'app Dibby. Scannez le code de la page de connexion avec l'appareil photo du téléphone qui a l'app Dibby."
-      }
+      },
+      "pushSent": "Nous avons envoyé une notification à l'app Dibby de",
+      "notYou": "Ce n'est pas vous ?",
+      "pushPrompt": "Ou recevez une notification sur votre téléphone :",
+      "pushSend": "Envoyer"
     }
   },
   "consent": {

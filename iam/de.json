@@ -152,7 +152,11 @@
         "title": "Dibby-App",
         "heading": "Mit der Dibby-App öffnen",
         "text": "Mit diesem Link meldest du dich mit der Dibby-App an. Scanne den Code auf der Anmeldeseite mit der Kamera des Handys mit der Dibby-App."
-      }
+      },
+      "pushSent": "Wir haben eine Mitteilung an die Dibby-App gesendet von",
+      "notYou": "Nicht du?",
+      "pushPrompt": "Oder erhalte eine Mitteilung auf deinem Handy:",
+      "pushSend": "Senden"
     }
   },
   "consent": {
