@@ -332,7 +332,18 @@
     "faceId": "Face ID gebruiken om te ontgrendelen",
     "signOut": "Uitloggen",
     "shareCardPrefixes": "Help winkels herkennen",
-    "shareCardPrefixesHelp": "Deelt het anonieme begin van je klantenkaartnummers (nooit het hele nummer), zodat Dibby winkels voor iedereen kan herkennen."
+    "shareCardPrefixesHelp": "Deelt het anonieme begin van je klantenkaartnummers (nooit het hele nummer), zodat Dibby winkels voor iedereen kan herkennen.",
+    "deleteAccount": "Account verwijderen",
+    "deleteTitle": "Je Dibby-account verwijderen?",
+    "deleteExplanation": "Hiermee verwijder je je account en alles wat erin staat: je bonnen en hun foto's, je klantenkaarten en mappen, je e-mailadres voor bonnen en je koppelingen met boekhoudsoftware. Dit kan niet ongedaan worden gemaakt.",
+    "deleteConfirm": "Verwijder mijn account",
+    "deleteReason": "Bevestig dat je je Dibby-account wilt verwijderen",
+    "deleting": "Je account wordt verwijderd…",
+    "deleteOffline": "Voor het verwijderen van je account is internet nodig.",
+    "deleteOwnsMerchant": "Je account beheert een winkel op Dibby en kan daarom hier niet worden verwijderd. Neem contact op met Dibby support.",
+    "deleteFailed": "Je account kon niet worden verwijderd. Probeer het opnieuw.",
+    "deletedTitle": "Je account is verwijderd",
+    "deletedMessage": "Bedankt dat je Dibby hebt gebruikt."
   },
   "common": {
     "cancel": "Annuleren",
