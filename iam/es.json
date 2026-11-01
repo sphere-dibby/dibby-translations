@@ -20,7 +20,8 @@
       "developerConsoleSuffix": "Registra tu app para OAuth 2.0",
       "passkey": "Iniciar sesión con una llave de acceso",
       "passkeyFailed": "No se pudo usar esa llave de acceso. Inténtalo de nuevo o inicia sesión con tu contraseña.",
-      "lockedOut": "Demasiados intentos fallidos. Inténtalo de nuevo en 15 minutos."
+      "lockedOut": "Demasiados intentos fallidos. Inténtalo de nuevo en 15 minutos.",
+      "appSignIn": "Iniciar sesión con la app de Dibby"
     },
     "register": {
       "title": "Registrarse",
@@ -128,6 +129,30 @@
       "failed": "No ha funcionado. Inténtalo de nuevo.",
       "unsupported": "Este navegador no puede crear llaves de acceso.",
       "back": "Volver a Dibby"
+    },
+    "appSignIn": {
+      "title": "Iniciar sesión con la app de Dibby",
+      "heading": "Iniciar sesión con la app de Dibby",
+      "scan": "Escanea este código con la cámara del teléfono que tiene la app de Dibby y confirma en la app.",
+      "qrAlt": "Código QR para iniciar sesión con la app de Dibby",
+      "number": "Elige este número en la app:",
+      "onThisPhone": "¿Tienes la app de Dibby en este teléfono?",
+      "openApp": "Abrir la app de Dibby",
+      "waiting": "Esperando a la app…",
+      "denied": "El inicio de sesión se rechazó en la app.",
+      "expired": "Este código ha caducado.",
+      "used": "Has iniciado sesión en otra pestaña. Puedes cerrar esta.",
+      "failed": "No se pudo iniciar sesión con la app. Inténtalo de nuevo.",
+      "otherBrowser": "Abre esto en el navegador donde empezaste a iniciar sesión e inténtalo de nuevo.",
+      "lockedOut": "Esta cuenta está bloqueada temporalmente. Inténtalo más tarde.",
+      "notAllowed": "Debes confirmar tu correo electrónico antes de iniciar sesión.",
+      "tryAgain": "Intentar de nuevo",
+      "usePassword": "Iniciar sesión con la contraseña",
+      "approvePage": {
+        "title": "App de Dibby",
+        "heading": "Abre esto con la app de Dibby",
+        "text": "Este enlace inicia sesión con la app de Dibby. Escanea el código de la página de inicio de sesión con la cámara del teléfono que tiene la app de Dibby."
+      }
     }
   },
   "consent": {

@@ -20,7 +20,8 @@
       "developerConsoleSuffix": "Register your app for OAuth 2.0",
       "passkey": "Sign in with a passkey",
       "passkeyFailed": "That passkey couldn't be used. Try again, or sign in with your password.",
-      "lockedOut": "Too many failed attempts. Try again in 15 minutes."
+      "lockedOut": "Too many failed attempts. Try again in 15 minutes.",
+      "appSignIn": "Sign in with the Dibby app"
     },
     "register": {
       "title": "Register",
@@ -128,6 +129,30 @@
       "failed": "That didn't work. Please try again.",
       "unsupported": "This browser can't create passkeys.",
       "back": "Back to Dibby"
+    },
+    "appSignIn": {
+      "title": "Sign in with the Dibby app",
+      "heading": "Sign in with the Dibby app",
+      "scan": "Scan this code with the camera of the phone that has the Dibby app, then confirm in the app.",
+      "qrAlt": "QR code to sign in with the Dibby app",
+      "number": "Choose this number in the app:",
+      "onThisPhone": "Is the Dibby app on this phone?",
+      "openApp": "Open the Dibby app",
+      "waiting": "Waiting for the app…",
+      "denied": "The sign-in was declined in the app.",
+      "expired": "This code has expired.",
+      "used": "You're signed in in another tab. You can close this one.",
+      "failed": "Signing in with the app didn't work. Please try again.",
+      "otherBrowser": "Open this in the browser where you started signing in, and try again.",
+      "lockedOut": "This account is temporarily locked. Please try again later.",
+      "notAllowed": "You must confirm your email before signing in.",
+      "tryAgain": "Try again",
+      "usePassword": "Sign in with your password instead",
+      "approvePage": {
+        "title": "Dibby app",
+        "heading": "Open this with the Dibby app",
+        "text": "This link signs you in with the Dibby app. Scan the code on the sign-in page with the camera of the phone that has the Dibby app."
+      }
     }
   },
   "consent": {
