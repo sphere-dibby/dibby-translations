@@ -343,7 +343,21 @@
     "deleteOwnsMerchant": "Your account manages a store on Dibby, so it can't be deleted here. Please contact Dibby support.",
     "deleteFailed": "Your account couldn't be deleted. Please try again.",
     "deletedTitle": "Your account has been deleted",
-    "deletedMessage": "Thanks for using Dibby."
+    "deletedMessage": "Thanks for using Dibby.",
+    "passkeys": "Passkeys",
+    "passkeysExplanation": "Sign in to Dibby with Face ID instead of your password and a code, in the app and on every website where you sign in with Dibby.",
+    "passkeysEmpty": "You don't have a passkey yet.",
+    "passkeyAdd": "Add a passkey",
+    "passkeyAdding": "Adding passkey…",
+    "passkeyAdded": "Passkey added. Next time, sign in with Face ID.",
+    "passkeyAddFailed": "The passkey couldn't be added. Please try again.",
+    "passkeyAddOffline": "Adding a passkey needs an internet connection.",
+    "passkeyCreated": "Added on %@",
+    "passkeySynced": "Synced to your other devices",
+    "passkeyRemove": "Remove",
+    "passkeyRemoveFailed": "The passkey couldn't be removed. Please try again.",
+    "passkeysLoadFailed": "Your passkeys couldn't be loaded.",
+    "passkeysOffline": "Your passkeys can't be loaded offline."
   },
   "common": {
     "cancel": "Cancel",
