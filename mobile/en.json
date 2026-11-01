@@ -332,7 +332,18 @@
     "faceId": "Use Face ID to unlock",
     "signOut": "Sign out",
     "shareCardPrefixes": "Help recognise stores",
-    "shareCardPrefixesHelp": "Shares the anonymous start of your loyalty card numbers (never the whole number), so Dibby can recognise stores for everyone."
+    "shareCardPrefixesHelp": "Shares the anonymous start of your loyalty card numbers (never the whole number), so Dibby can recognise stores for everyone.",
+    "deleteAccount": "Delete account",
+    "deleteTitle": "Delete your Dibby account?",
+    "deleteExplanation": "This deletes your account and everything in it: your receipts and their photos, your loyalty cards and folders, your email address for receipts and your connections to accounting software. This can't be undone.",
+    "deleteConfirm": "Delete my account",
+    "deleteReason": "Confirm that you want to delete your Dibby account",
+    "deleting": "Deleting your account…",
+    "deleteOffline": "Deleting your account needs an internet connection.",
+    "deleteOwnsMerchant": "Your account manages a store on Dibby, so it can't be deleted here. Please contact Dibby support.",
+    "deleteFailed": "Your account couldn't be deleted. Please try again.",
+    "deletedTitle": "Your account has been deleted",
+    "deletedMessage": "Thanks for using Dibby."
   },
   "common": {
     "cancel": "Cancel",
