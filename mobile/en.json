@@ -412,5 +412,31 @@
     "wrongNumber": "That wasn't the number on the screen, so the sign-in was declined. Start again on the sign-in page.",
     "failed": "The sign-in couldn't be approved. Please try again.",
     "offline": "Approving a sign-in needs an internet connection."
+  },
+  "push": {
+    "signIn": {
+      "title": "Sign-in request",
+      "body": "Sign in to %1$@ from %2$@? Tap to approve."
+    },
+    "receiptRead": {
+      "title": "Receipt read",
+      "body": "%1$@: %2$@",
+      "bodyMerchant": "%@",
+      "bodyGeneric": "Your receipt is ready."
+    },
+    "receiptReadFailed": {
+      "title": "Receipt couldn't be read",
+      "bodyGeneric": "Open it to fill in the details yourself."
+    },
+    "emailReceipt": {
+      "title": "New receipt by email",
+      "body": "%1$@: %2$@",
+      "bodyMerchant": "From %@",
+      "bodyGeneric": "A receipt arrived in your Dibby inbox."
+    },
+    "suggestionReady": {
+      "title": "Receipt read again",
+      "bodyGeneric": "Have a look at the suggested changes."
+    }
   }
 }

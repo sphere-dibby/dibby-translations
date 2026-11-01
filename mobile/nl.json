@@ -412,5 +412,31 @@
     "wrongNumber": "Dat was niet het getal op het scherm, dus het inloggen is geweigerd. Begin opnieuw op de inlogpagina.",
     "failed": "Het inloggen kon niet worden goedgekeurd. Probeer het opnieuw.",
     "offline": "Voor het goedkeuren van een inlogverzoek is een internetverbinding nodig."
+  },
+  "push": {
+    "signIn": {
+      "title": "Inlogverzoek",
+      "body": "Inloggen bij %1$@ vanaf %2$@? Tik om goed te keuren."
+    },
+    "receiptRead": {
+      "title": "Bon gelezen",
+      "body": "%1$@: %2$@",
+      "bodyMerchant": "%@",
+      "bodyGeneric": "Je bon staat klaar."
+    },
+    "receiptReadFailed": {
+      "title": "Bon kon niet worden gelezen",
+      "bodyGeneric": "Open hem om de gegevens zelf in te vullen."
+    },
+    "emailReceipt": {
+      "title": "Nieuwe bon per e-mail",
+      "body": "%1$@: %2$@",
+      "bodyMerchant": "Van %@",
+      "bodyGeneric": "Er is een bon binnengekomen in je Dibby-inbox."
+    },
+    "suggestionReady": {
+      "title": "Bon opnieuw gelezen",
+      "bodyGeneric": "Bekijk de voorgestelde wijzigingen."
+    }
   }
 }
