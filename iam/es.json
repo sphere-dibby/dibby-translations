@@ -17,7 +17,10 @@
       "resend": "Reenviar confirmación",
       "or": "o",
       "developerConsole": "Consola de desarrollador",
-      "developerConsoleSuffix": "Registra tu app para OAuth 2.0"
+      "developerConsoleSuffix": "Registra tu app para OAuth 2.0",
+      "passkey": "Iniciar sesión con una llave de acceso",
+      "passkeyFailed": "No se pudo usar esa llave de acceso. Inténtalo de nuevo o inicia sesión con tu contraseña.",
+      "lockedOut": "Demasiados intentos fallidos. Inténtalo de nuevo en 15 minutos."
     },
     "register": {
       "title": "Registrarse",
@@ -104,6 +107,27 @@
       "recoveryCodePlaceholder": "xxxxx-xxxxx",
       "submit": "Iniciar sesión",
       "backTo2fa": "Volver al código de autenticación"
+    },
+    "addPasskey": {
+      "title": "Inicio de sesión más rápido",
+      "heading": "Inicia sesión más rápido la próxima vez",
+      "text": "Usa Face ID, Touch ID, tu huella o el PIN de tu dispositivo en lugar de tu contraseña. No hay nada que recordar y no se puede suplantar.",
+      "add": "Usar una llave de acceso",
+      "later": "Ahora no",
+      "failed": "No se pudo añadir la llave de acceso. Puedes volver a intentarlo más tarde desde la configuración de tu cuenta."
+    },
+    "passkeys": {
+      "title": "Llaves de acceso",
+      "heading": "Tus llaves de acceso",
+      "text": "Inicia sesión con Face ID, Touch ID, tu huella o el PIN de tu dispositivo. Las llaves de acceso del iPhone y el Mac se comparten mediante el llavero de iCloud.",
+      "none": "Todavía no tienes llaves de acceso.",
+      "added": "Añadida el",
+      "add": "Añadir una llave de acceso en este dispositivo",
+      "remove": "Eliminar",
+      "removed": "Se ha eliminado la llave de acceso.",
+      "failed": "No ha funcionado. Inténtalo de nuevo.",
+      "unsupported": "Este navegador no puede crear llaves de acceso.",
+      "back": "Volver a Dibby"
     }
   },
   "consent": {

@@ -17,7 +17,10 @@
       "resend": "Bestätigung erneut senden",
       "or": "oder",
       "developerConsole": "Entwicklerkonsole",
-      "developerConsoleSuffix": "App für OAuth 2.0 registrieren"
+      "developerConsoleSuffix": "App für OAuth 2.0 registrieren",
+      "passkey": "Mit einem Passkey anmelden",
+      "passkeyFailed": "Dieser Passkey konnte nicht verwendet werden. Versuche es erneut oder melde dich mit deinem Passwort an.",
+      "lockedOut": "Zu viele Fehlversuche. Versuche es in 15 Minuten erneut."
     },
     "register": {
       "title": "Registrieren",
@@ -104,6 +107,27 @@
       "recoveryCodePlaceholder": "xxxxx-xxxxx",
       "submit": "Anmelden",
       "backTo2fa": "Zurück zum Authentifikator-Code"
+    },
+    "addPasskey": {
+      "title": "Schneller anmelden",
+      "heading": "Nächstes Mal schneller anmelden",
+      "text": "Verwende Face ID, Touch ID, deinen Fingerabdruck oder die PIN deines Geräts statt deines Passworts. Nichts zu merken, und es kann nicht gephisht werden.",
+      "add": "Passkey verwenden",
+      "later": "Nicht jetzt",
+      "failed": "Der Passkey konnte nicht hinzugefügt werden. Du kannst es später in deinen Kontoeinstellungen erneut versuchen."
+    },
+    "passkeys": {
+      "title": "Passkeys",
+      "heading": "Deine Passkeys",
+      "text": "Melde dich mit Face ID, Touch ID, deinem Fingerabdruck oder der PIN deines Geräts an. Passkeys auf iPhone und Mac werden über den iCloud-Schlüsselbund geteilt.",
+      "none": "Du hast noch keine Passkeys.",
+      "added": "Hinzugefügt",
+      "add": "Passkey auf diesem Gerät hinzufügen",
+      "remove": "Entfernen",
+      "removed": "Der Passkey wurde entfernt.",
+      "failed": "Das hat nicht funktioniert. Bitte versuche es erneut.",
+      "unsupported": "Dieser Browser kann keine Passkeys erstellen.",
+      "back": "Zurück zu Dibby"
     }
   },
   "consent": {

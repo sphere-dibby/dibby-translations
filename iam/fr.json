@@ -17,7 +17,10 @@
       "resend": "Renvoyer la confirmation",
       "or": "ou",
       "developerConsole": "Console développeur",
-      "developerConsoleSuffix": "Inscrivez votre application pour OAuth 2.0"
+      "developerConsoleSuffix": "Inscrivez votre application pour OAuth 2.0",
+      "passkey": "Se connecter avec une clé d'accès",
+      "passkeyFailed": "Cette clé d'accès n'a pas pu être utilisée. Réessayez ou connectez-vous avec votre mot de passe.",
+      "lockedOut": "Trop de tentatives échouées. Réessayez dans 15 minutes."
     },
     "register": {
       "title": "S'inscrire",
@@ -104,6 +107,27 @@
       "recoveryCodePlaceholder": "xxxxx-xxxxx",
       "submit": "Se connecter",
       "backTo2fa": "Retour au code d'authentification"
+    },
+    "addPasskey": {
+      "title": "Connexion plus rapide",
+      "heading": "Connectez-vous plus vite la prochaine fois",
+      "text": "Utilisez Face ID, Touch ID, votre empreinte digitale ou le code de votre appareil au lieu de votre mot de passe. Rien à retenir, et impossible à hameçonner.",
+      "add": "Utiliser une clé d'accès",
+      "later": "Pas maintenant",
+      "failed": "La clé d'accès n'a pas pu être ajoutée. Vous pourrez réessayer plus tard dans les paramètres de votre compte."
+    },
+    "passkeys": {
+      "title": "Clés d'accès",
+      "heading": "Vos clés d'accès",
+      "text": "Connectez-vous avec Face ID, Touch ID, votre empreinte digitale ou le code de votre appareil. Les clés d'accès sur iPhone et Mac sont partagées via le trousseau iCloud.",
+      "none": "Vous n'avez pas encore de clé d'accès.",
+      "added": "Ajoutée le",
+      "add": "Ajouter une clé d'accès sur cet appareil",
+      "remove": "Supprimer",
+      "removed": "La clé d'accès a été supprimée.",
+      "failed": "Cela n'a pas fonctionné. Veuillez réessayer.",
+      "unsupported": "Ce navigateur ne peut pas créer de clés d'accès.",
+      "back": "Retour à Dibby"
     }
   },
   "consent": {
