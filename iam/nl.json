@@ -20,7 +20,8 @@
       "developerConsoleSuffix": "Registreer je app voor OAuth 2.0",
       "passkey": "Inloggen met een passkey",
       "passkeyFailed": "Die passkey kon niet worden gebruikt. Probeer het opnieuw, of log in met je wachtwoord.",
-      "lockedOut": "Te veel mislukte pogingen. Probeer het over 15 minuten opnieuw."
+      "lockedOut": "Te veel mislukte pogingen. Probeer het over 15 minuten opnieuw.",
+      "appSignIn": "Inloggen met de Dibby-app"
     },
     "register": {
       "title": "Registreren",
@@ -128,6 +129,30 @@
       "failed": "Dat is niet gelukt. Probeer het opnieuw.",
       "unsupported": "Deze browser kan geen passkeys maken.",
       "back": "Terug naar Dibby"
+    },
+    "appSignIn": {
+      "title": "Inloggen met de Dibby-app",
+      "heading": "Inloggen met de Dibby-app",
+      "scan": "Scan deze code met de camera van de telefoon met de Dibby-app en bevestig in de app.",
+      "qrAlt": "QR-code om in te loggen met de Dibby-app",
+      "number": "Kies dit getal in de app:",
+      "onThisPhone": "Staat de Dibby-app op deze telefoon?",
+      "openApp": "Open de Dibby-app",
+      "waiting": "Wachten op de app…",
+      "denied": "Het inloggen is in de app geweigerd.",
+      "expired": "Deze code is verlopen.",
+      "used": "Je bent ingelogd in een ander tabblad. Je kunt dit tabblad sluiten.",
+      "failed": "Inloggen met de app is niet gelukt. Probeer het opnieuw.",
+      "otherBrowser": "Open dit in de browser waarin je begon met inloggen en probeer het opnieuw.",
+      "lockedOut": "Dit account is tijdelijk geblokkeerd. Probeer het later opnieuw.",
+      "notAllowed": "Je moet je e-mailadres bevestigen voordat je kunt inloggen.",
+      "tryAgain": "Opnieuw proberen",
+      "usePassword": "Toch inloggen met je wachtwoord",
+      "approvePage": {
+        "title": "Dibby-app",
+        "heading": "Open dit met de Dibby-app",
+        "text": "Met deze link log je in met de Dibby-app. Scan de code op de inlogpagina met de camera van de telefoon met de Dibby-app."
+      }
     }
   },
   "consent": {

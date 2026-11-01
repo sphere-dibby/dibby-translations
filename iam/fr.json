@@ -20,7 +20,8 @@
       "developerConsoleSuffix": "Inscrivez votre application pour OAuth 2.0",
       "passkey": "Se connecter avec une clé d'accès",
       "passkeyFailed": "Cette clé d'accès n'a pas pu être utilisée. Réessayez ou connectez-vous avec votre mot de passe.",
-      "lockedOut": "Trop de tentatives échouées. Réessayez dans 15 minutes."
+      "lockedOut": "Trop de tentatives échouées. Réessayez dans 15 minutes.",
+      "appSignIn": "Se connecter avec l'app Dibby"
     },
     "register": {
       "title": "S'inscrire",
@@ -128,6 +129,30 @@
       "failed": "Cela n'a pas fonctionné. Veuillez réessayer.",
       "unsupported": "Ce navigateur ne peut pas créer de clés d'accès.",
       "back": "Retour à Dibby"
+    },
+    "appSignIn": {
+      "title": "Se connecter avec l'app Dibby",
+      "heading": "Se connecter avec l'app Dibby",
+      "scan": "Scannez ce code avec l'appareil photo du téléphone qui a l'app Dibby, puis confirmez dans l'app.",
+      "qrAlt": "Code QR pour se connecter avec l'app Dibby",
+      "number": "Choisissez ce nombre dans l'app :",
+      "onThisPhone": "L'app Dibby est sur ce téléphone ?",
+      "openApp": "Ouvrir l'app Dibby",
+      "waiting": "En attente de l'app…",
+      "denied": "La connexion a été refusée dans l'app.",
+      "expired": "Ce code a expiré.",
+      "used": "Vous êtes connecté dans un autre onglet. Vous pouvez fermer celui-ci.",
+      "failed": "La connexion avec l'app n'a pas fonctionné. Veuillez réessayer.",
+      "otherBrowser": "Ouvrez ceci dans le navigateur où vous avez commencé à vous connecter, puis réessayez.",
+      "lockedOut": "Ce compte est temporairement bloqué. Veuillez réessayer plus tard.",
+      "notAllowed": "Vous devez confirmer votre adresse e-mail avant de vous connecter.",
+      "tryAgain": "Réessayer",
+      "usePassword": "Se connecter plutôt avec le mot de passe",
+      "approvePage": {
+        "title": "App Dibby",
+        "heading": "Ouvrez ceci avec l'app Dibby",
+        "text": "Ce lien vous connecte avec l'app Dibby. Scannez le code de la page de connexion avec l'appareil photo du téléphone qui a l'app Dibby."
+      }
     }
   },
   "consent": {

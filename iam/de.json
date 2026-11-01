@@ -20,7 +20,8 @@
       "developerConsoleSuffix": "App für OAuth 2.0 registrieren",
       "passkey": "Mit einem Passkey anmelden",
       "passkeyFailed": "Dieser Passkey konnte nicht verwendet werden. Versuche es erneut oder melde dich mit deinem Passwort an.",
-      "lockedOut": "Zu viele Fehlversuche. Versuche es in 15 Minuten erneut."
+      "lockedOut": "Zu viele Fehlversuche. Versuche es in 15 Minuten erneut.",
+      "appSignIn": "Mit der Dibby-App anmelden"
     },
     "register": {
       "title": "Registrieren",
@@ -128,6 +129,30 @@
       "failed": "Das hat nicht funktioniert. Bitte versuche es erneut.",
       "unsupported": "Dieser Browser kann keine Passkeys erstellen.",
       "back": "Zurück zu Dibby"
+    },
+    "appSignIn": {
+      "title": "Mit der Dibby-App anmelden",
+      "heading": "Mit der Dibby-App anmelden",
+      "scan": "Scanne diesen Code mit der Kamera des Handys mit der Dibby-App und bestätige in der App.",
+      "qrAlt": "QR-Code zur Anmeldung mit der Dibby-App",
+      "number": "Wähle diese Zahl in der App:",
+      "onThisPhone": "Ist die Dibby-App auf diesem Handy?",
+      "openApp": "Dibby-App öffnen",
+      "waiting": "Warte auf die App…",
+      "denied": "Die Anmeldung wurde in der App abgelehnt.",
+      "expired": "Dieser Code ist abgelaufen.",
+      "used": "Du bist in einem anderen Tab angemeldet. Du kannst diesen schließen.",
+      "failed": "Die Anmeldung mit der App hat nicht geklappt. Bitte versuche es erneut.",
+      "otherBrowser": "Öffne dies in dem Browser, in dem du mit der Anmeldung begonnen hast, und versuche es erneut.",
+      "lockedOut": "Dieses Konto ist vorübergehend gesperrt. Bitte versuche es später erneut.",
+      "notAllowed": "Du musst deine E-Mail-Adresse bestätigen, bevor du dich anmelden kannst.",
+      "tryAgain": "Erneut versuchen",
+      "usePassword": "Stattdessen mit Passwort anmelden",
+      "approvePage": {
+        "title": "Dibby-App",
+        "heading": "Mit der Dibby-App öffnen",
+        "text": "Mit diesem Link meldest du dich mit der Dibby-App an. Scanne den Code auf der Anmeldeseite mit der Kamera des Handys mit der Dibby-App."
+      }
     }
   },
   "consent": {
