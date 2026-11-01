@@ -343,7 +343,21 @@
     "deleteOwnsMerchant": "Je account beheert een winkel op Dibby en kan daarom hier niet worden verwijderd. Neem contact op met Dibby support.",
     "deleteFailed": "Je account kon niet worden verwijderd. Probeer het opnieuw.",
     "deletedTitle": "Je account is verwijderd",
-    "deletedMessage": "Bedankt dat je Dibby hebt gebruikt."
+    "deletedMessage": "Bedankt dat je Dibby hebt gebruikt.",
+    "passkeys": "Passkeys",
+    "passkeysExplanation": "Log in bij Dibby met Face ID in plaats van je wachtwoord en een code, in de app en op elke website waar je inlogt met Dibby.",
+    "passkeysEmpty": "Je hebt nog geen passkey.",
+    "passkeyAdd": "Passkey toevoegen",
+    "passkeyAdding": "Passkey toevoegen…",
+    "passkeyAdded": "Passkey toegevoegd. Log de volgende keer in met Face ID.",
+    "passkeyAddFailed": "De passkey kon niet worden toegevoegd. Probeer het opnieuw.",
+    "passkeyAddOffline": "Voor het toevoegen van een passkey is een internetverbinding nodig.",
+    "passkeyCreated": "Toegevoegd op %@",
+    "passkeySynced": "Gesynchroniseerd met je andere apparaten",
+    "passkeyRemove": "Verwijderen",
+    "passkeyRemoveFailed": "De passkey kon niet worden verwijderd. Probeer het opnieuw.",
+    "passkeysLoadFailed": "Je passkeys konden niet worden geladen.",
+    "passkeysOffline": "Je passkeys kunnen niet offline worden geladen."
   },
   "common": {
     "cancel": "Annuleren",
