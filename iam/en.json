@@ -137,7 +137,7 @@
       "qrAlt": "QR code to sign in with the Dibby app",
       "number": "Choose this number in the app:",
       "onThisPhone": "Is the Dibby app on this phone?",
-      "openApp": "Open the Dibby app",
+      "openApp": "Use the Dibby app on this phone",
       "waiting": "Waiting for the app…",
       "denied": "The sign-in was declined in the app.",
       "expired": "This code has expired.",
