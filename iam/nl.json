@@ -17,7 +17,10 @@
       "resend": "Bevestiging opnieuw verzenden",
       "or": "of",
       "developerConsole": "Ontwikkelaarsconsole",
-      "developerConsoleSuffix": "Registreer je app voor OAuth 2.0"
+      "developerConsoleSuffix": "Registreer je app voor OAuth 2.0",
+      "passkey": "Inloggen met een passkey",
+      "passkeyFailed": "Die passkey kon niet worden gebruikt. Probeer het opnieuw, of log in met je wachtwoord.",
+      "lockedOut": "Te veel mislukte pogingen. Probeer het over 15 minuten opnieuw."
     },
     "register": {
       "title": "Registreren",
@@ -104,6 +107,27 @@
       "recoveryCodePlaceholder": "xxxxx-xxxxx",
       "submit": "Inloggen",
       "backTo2fa": "Terug naar authenticatorcode"
+    },
+    "addPasskey": {
+      "title": "Sneller inloggen",
+      "heading": "Volgende keer sneller inloggen",
+      "text": "Gebruik Face ID, Touch ID, je vingerafdruk of de pincode van je apparaat in plaats van je wachtwoord. Niets om te onthouden, en het kan niet worden gephisht.",
+      "add": "Passkey gebruiken",
+      "later": "Niet nu",
+      "failed": "De passkey kon niet worden toegevoegd. Je kunt het later opnieuw proberen via je accountinstellingen."
+    },
+    "passkeys": {
+      "title": "Passkeys",
+      "heading": "Je passkeys",
+      "text": "Log in met Face ID, Touch ID, je vingerafdruk of de pincode van je apparaat. Passkeys op iPhone en Mac worden gedeeld via de iCloud-sleutelhanger.",
+      "none": "Je hebt nog geen passkeys.",
+      "added": "Toegevoegd",
+      "add": "Passkey toevoegen op dit apparaat",
+      "remove": "Verwijderen",
+      "removed": "De passkey is verwijderd.",
+      "failed": "Dat is niet gelukt. Probeer het opnieuw.",
+      "unsupported": "Deze browser kan geen passkeys maken.",
+      "back": "Terug naar Dibby"
     }
   },
   "consent": {

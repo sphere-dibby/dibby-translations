@@ -17,7 +17,10 @@
       "resend": "Resend confirmation",
       "or": "or",
       "developerConsole": "Developer Console",
-      "developerConsoleSuffix": "Register your app for OAuth 2.0"
+      "developerConsoleSuffix": "Register your app for OAuth 2.0",
+      "passkey": "Sign in with a passkey",
+      "passkeyFailed": "That passkey couldn't be used. Try again, or sign in with your password.",
+      "lockedOut": "Too many failed attempts. Try again in 15 minutes."
     },
     "register": {
       "title": "Register",
@@ -104,6 +107,27 @@
       "recoveryCodePlaceholder": "xxxxx-xxxxx",
       "submit": "Sign In",
       "backTo2fa": "Back to authenticator code"
+    },
+    "addPasskey": {
+      "title": "Faster sign-in",
+      "heading": "Sign in faster next time",
+      "text": "Use Face ID, Touch ID, your fingerprint or your device PIN instead of your password. There's nothing to remember, and it can't be phished.",
+      "add": "Use a passkey",
+      "later": "Not now",
+      "failed": "The passkey couldn't be added. You can try again later from your account settings."
+    },
+    "passkeys": {
+      "title": "Passkeys",
+      "heading": "Your passkeys",
+      "text": "Sign in with Face ID, Touch ID, your fingerprint or your device PIN. Passkeys on iPhone and Mac are shared through iCloud Keychain.",
+      "none": "You don't have any passkeys yet.",
+      "added": "Added",
+      "add": "Add a passkey on this device",
+      "remove": "Remove",
+      "removed": "The passkey was removed.",
+      "failed": "That didn't work. Please try again.",
+      "unsupported": "This browser can't create passkeys.",
+      "back": "Back to Dibby"
     }
   },
   "consent": {
