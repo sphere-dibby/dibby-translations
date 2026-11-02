@@ -357,7 +357,19 @@
     "passkeyRemove": "Verwijderen",
     "passkeyRemoveFailed": "De passkey kon niet worden verwijderd. Probeer het opnieuw.",
     "passkeysLoadFailed": "Je passkeys konden niet worden geladen.",
-    "passkeysOffline": "Je passkeys kunnen niet offline worden geladen."
+    "passkeysOffline": "Je passkeys kunnen niet offline worden geladen.",
+    "devices": "Telefoons voor inloggen",
+    "devicesExplanation": "Met deze telefoons kun je inloggen goedkeuren in de Dibby-app. Verwijder een telefoon die je kwijt bent of niet meer gebruikt: die kan dan geen inlogverzoeken meer goedkeuren en de Dibby-app daar wordt uitgelogd.",
+    "devicesEmpty": "Nog geen telefoon. Deze iPhone wordt toegevoegd zodra je voor het eerst inloggen goedkeurt.",
+    "deviceThis": "Deze iPhone",
+    "deviceAdded": "Toegevoegd op %@",
+    "deviceLastUsed": "Laatst gebruikt op %@",
+    "deviceRemove": "Verwijderen",
+    "deviceRemoveTitle": "Deze telefoon verwijderen?",
+    "deviceRemoveMessage": "Hij kan dan geen inlogverzoeken meer goedkeuren en de Dibby-app daar wordt uitgelogd.",
+    "deviceRemoveFailed": "De telefoon kon niet worden verwijderd. Probeer het opnieuw.",
+    "devicesLoadFailed": "Je telefoons konden niet worden geladen.",
+    "devicesOffline": "Je telefoons kunnen offline niet worden geladen."
   },
   "common": {
     "cancel": "Annuleren",
@@ -411,6 +423,7 @@
     "expired": "Dit inlogverzoek is verlopen of al gebruikt. Begin opnieuw op de inlogpagina.",
     "wrongNumber": "Dat was niet het getal op het scherm, dus het inloggen is geweigerd. Begin opnieuw op de inlogpagina.",
     "failed": "Het inloggen kon niet worden goedgekeurd. Probeer het opnieuw.",
+    "deviceRemoved": "Deze iPhone is verwijderd uit je telefoons voor inloggen. Log uit en opnieuw in om hier inloggen goed te keuren.",
     "offline": "Voor het goedkeuren van een inlogverzoek is een internetverbinding nodig."
   },
   "push": {
