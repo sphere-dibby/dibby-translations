@@ -170,6 +170,40 @@
       "applied": "Taken over. Save to keep them.",
       "discardFailed": "The new reading couldn't be discarded. Please try again.",
       "itemsSummary": "{{count}} items, {{sum}}"
+    },
+    "folders": {
+      "title": "Folders",
+      "empty": "No folders yet. Add one to keep receipts together, for example per project or per trip.",
+      "help": "Deleting a folder keeps its receipts; they're then in no folder.",
+      "new": "New folder",
+      "name": "Name",
+      "create": "Add",
+      "rename": "Rename folder",
+      "save": "Save",
+      "delete": "Delete",
+      "deleteTitle": "Delete “{{name}}”?",
+      "deleteMessage": "The receipts in it are kept.",
+      "move": "Move to folder",
+      "failed": "That didn't work. Please try again."
+    },
+    "accounting": {
+      "title": "Accounting",
+      "send": "Send to {{provider}}",
+      "sendAgain": "Send again",
+      "sendAgainConfirm": "This receipt was already sent to {{provider}}. Send it again?",
+      "status": {
+        "queued": "On its way to {{provider}}",
+        "sent": "Sent to {{provider}} on {{date}}",
+        "booked": "Booked in {{provider}} on {{date}}",
+        "failed": "Sending to {{provider}} failed",
+        "bounced": "{{provider}} rejected this receipt"
+      },
+      "openIn": "Open in {{provider}}",
+      "unsupported": "Only PDFs and photos can be sent to {{provider}}.",
+      "planRequired": "Booking in {{provider}} is part of Dibby Pro.",
+      "dailyLimit": "You've reached today's limit of 200 receipts. Try again tomorrow.",
+      "notConnected": "Your accounting software isn't connected anymore. Check it in the portal under Settings.",
+      "sendFailed": "Sending didn't work. Please try again."
     }
   },
   "cards": {
