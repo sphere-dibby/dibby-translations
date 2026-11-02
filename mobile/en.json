@@ -357,7 +357,20 @@
     "passkeyRemove": "Remove",
     "passkeyRemoveFailed": "The passkey couldn't be removed. Please try again.",
     "passkeysLoadFailed": "Your passkeys couldn't be loaded.",
-    "passkeysOffline": "Your passkeys can't be loaded offline."
+    "passkeysOffline": "Your passkeys can't be loaded offline.",
+    "devices": "Phones for signing in",
+    "devicesExplanation": "These phones can approve a sign-in with the Dibby app. Remove a phone you lost or no longer use, and it can't approve sign-ins anymore.",
+    "devicesEmpty": "No phone yet. This iPhone is added the first time you approve a sign-in.",
+    "deviceThis": "This iPhone",
+    "deviceAdded": "Added on %@",
+    "deviceLastUsed": "Last used %@",
+    "deviceRemove": "Remove",
+    "deviceRemoveTitle": "Remove this phone?",
+    "deviceRemoveMessage": "It can't approve sign-ins anymore.",
+    "deviceRemoveThisMessage": "This iPhone can't approve sign-ins anymore, until you sign out and sign in again.",
+    "deviceRemoveFailed": "The phone couldn't be removed. Please try again.",
+    "devicesLoadFailed": "Your phones couldn't be loaded.",
+    "devicesOffline": "Your phones can't be loaded offline."
   },
   "common": {
     "cancel": "Cancel",
@@ -411,6 +424,7 @@
     "expired": "This sign-in has expired or was already used. Start again on the sign-in page.",
     "wrongNumber": "That wasn't the number on the screen, so the sign-in was declined. Start again on the sign-in page.",
     "failed": "The sign-in couldn't be approved. Please try again.",
+    "deviceRemoved": "This iPhone was removed from your phones for signing in. Sign out and sign in again to approve sign-ins here.",
     "offline": "Approving a sign-in needs an internet connection."
   },
   "push": {
