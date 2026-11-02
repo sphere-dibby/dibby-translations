@@ -170,6 +170,40 @@
       "applied": "Overgenomen. Sla op om ze te bewaren.",
       "discardFailed": "De nieuwe lezing kon niet worden weggegooid. Probeer het opnieuw.",
       "itemsSummary": "{{count}} artikelen, {{sum}}"
+    },
+    "folders": {
+      "title": "Mappen",
+      "empty": "Nog geen mappen. Maak er een om bonnen bij elkaar te houden, bijvoorbeeld per project of per reis.",
+      "help": "Als je een map verwijdert, blijven de bonnen bewaard; ze staan dan in geen map.",
+      "new": "Nieuwe map",
+      "name": "Naam",
+      "create": "Toevoegen",
+      "rename": "Map hernoemen",
+      "save": "Opslaan",
+      "delete": "Verwijderen",
+      "deleteTitle": "„{{name}}” verwijderen?",
+      "deleteMessage": "De bonnen erin blijven bewaard.",
+      "move": "Naar map verplaatsen",
+      "failed": "Dat lukte niet. Probeer het opnieuw."
+    },
+    "accounting": {
+      "title": "Boekhouding",
+      "send": "Naar {{provider}} sturen",
+      "sendAgain": "Opnieuw sturen",
+      "sendAgainConfirm": "Deze bon is al naar {{provider}} gestuurd. Opnieuw sturen?",
+      "status": {
+        "queued": "Onderweg naar {{provider}}",
+        "sent": "Naar {{provider}} gestuurd op {{date}}",
+        "booked": "Geboekt in {{provider}} op {{date}}",
+        "failed": "Versturen naar {{provider}} mislukt",
+        "bounced": "{{provider}} heeft deze bon geweigerd"
+      },
+      "openIn": "Openen in {{provider}}",
+      "unsupported": "Alleen pdf's en foto's kunnen naar {{provider}} worden gestuurd.",
+      "planRequired": "Boeken in {{provider}} hoort bij Dibby Pro.",
+      "dailyLimit": "Je hebt het maximum van 200 bonnen voor vandaag bereikt. Probeer het morgen opnieuw.",
+      "notConnected": "Je boekhoudsoftware is niet meer gekoppeld. Kijk het na in het portaal bij Instellingen.",
+      "sendFailed": "Versturen lukte niet. Probeer het opnieuw."
     }
   },
   "cards": {
