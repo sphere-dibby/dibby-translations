@@ -21,7 +21,12 @@
       "passkey": "Se connecter avec une clé d'accès",
       "passkeyFailed": "Cette clé d'accès n'a pas pu être utilisée. Réessayez ou connectez-vous avec votre mot de passe.",
       "lockedOut": "Trop de tentatives échouées. Réessayez dans 15 minutes.",
-      "appSignIn": "Se connecter avec l'app Dibby"
+      "appSignIn": "Se connecter avec l'app Dibby",
+      "invalid": "Adresse e-mail ou mot de passe incorrect.",
+      "unconfirmed": "Confirme ton adresse e-mail avant de te connecter.",
+      "unconfirmedSent": "Ton adresse e-mail n'est pas encore confirmée. Nous avons envoyé un nouveau lien de confirmation à {0}. Vérifie aussi tes spams.",
+      "unconfirmedFailed": "Ton adresse e-mail n'est pas encore confirmée, et nous n'avons pas pu envoyer de nouveau lien. Réessaie dans une minute.",
+      "passwordPlaceholder": "Ton mot de passe"
     },
     "register": {
       "title": "S'inscrire",
@@ -34,7 +39,12 @@
       "togglePassword": "Afficher/masquer le mot de passe",
       "submit": "S'inscrire",
       "signInPrompt": "Vous avez déjà un compte ?",
-      "signIn": "Se connecter"
+      "signIn": "Se connecter",
+      "passwordPlaceholder": "Choisis un mot de passe",
+      "confirmPasswordPlaceholder": "Saisis-le à nouveau",
+      "exists": "Un compte Dibby existe déjà avec cette adresse e-mail.",
+      "existsSignIn": "Se connecter",
+      "existsReset": "Réinitialiser ton mot de passe"
     },
     "forgotPassword": {
       "title": "Mot de passe oublié",
@@ -58,7 +68,9 @@
       "backToSignIn": "Retour à la connexion",
       "succeededHeading": "Mot de passe réinitialisé",
       "succeededSubtitle": "Votre mot de passe a été modifié avec succès",
-      "succeededSignIn": "Se connecter avec votre nouveau mot de passe"
+      "succeededSignIn": "Se connecter avec votre nouveau mot de passe",
+      "passwordPlaceholder": "Choisis un nouveau mot de passe",
+      "confirmPasswordPlaceholder": "Saisis-le à nouveau"
     },
     "confirmEmail": {
       "title": "Confirmer l'e-mail",
@@ -76,7 +88,11 @@
       "note": "Cliquez sur le lien dans l'e-mail pour activer votre compte. Si vous ne le voyez pas, vérifiez vos spams.",
       "resendPrompt": "Vous ne l'avez pas reçu ?",
       "resend": "Renvoyer l'e-mail de confirmation",
-      "backToSignIn": "Retour à la connexion"
+      "backToSignIn": "Retour à la connexion",
+      "existingNote": "Tu avais déjà commencé à t'inscrire avec cette adresse e-mail, nous t'avons donc envoyé un nouveau lien.",
+      "existingResetPrompt": "Tu ne te souviens plus du mot de passe choisi ?",
+      "existingReset": "En choisir un nouveau",
+      "failed": "Nous n'avons pas pu envoyer l'e-mail. Réessaie dans une minute."
     },
     "resendConfirmation": {
       "title": "Renvoyer la confirmation",

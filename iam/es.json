@@ -21,7 +21,12 @@
       "passkey": "Iniciar sesión con una llave de acceso",
       "passkeyFailed": "No se pudo usar esa llave de acceso. Inténtalo de nuevo o inicia sesión con tu contraseña.",
       "lockedOut": "Demasiados intentos fallidos. Inténtalo de nuevo en 15 minutos.",
-      "appSignIn": "Iniciar sesión con la app de Dibby"
+      "appSignIn": "Iniciar sesión con la app de Dibby",
+      "invalid": "Correo electrónico o contraseña incorrectos.",
+      "unconfirmed": "Confirma tu correo electrónico antes de iniciar sesión.",
+      "unconfirmedSent": "Tu correo electrónico aún no está confirmado. Hemos enviado un nuevo enlace de confirmación a {0}. Revisa también la carpeta de spam.",
+      "unconfirmedFailed": "Tu correo electrónico aún no está confirmado y no hemos podido enviar un nuevo enlace. Inténtalo de nuevo en un minuto.",
+      "passwordPlaceholder": "Tu contraseña"
     },
     "register": {
       "title": "Registrarse",
@@ -34,7 +39,12 @@
       "togglePassword": "Mostrar u ocultar contraseña",
       "submit": "Registrarse",
       "signInPrompt": "¿Ya tienes una cuenta?",
-      "signIn": "Iniciar sesión"
+      "signIn": "Iniciar sesión",
+      "passwordPlaceholder": "Elige una contraseña",
+      "confirmPasswordPlaceholder": "Escríbela otra vez",
+      "exists": "Ya existe una cuenta de Dibby con este correo electrónico.",
+      "existsSignIn": "Iniciar sesión",
+      "existsReset": "Restablecer tu contraseña"
     },
     "forgotPassword": {
       "title": "Contraseña olvidada",
@@ -58,7 +68,9 @@
       "backToSignIn": "Volver al inicio de sesión",
       "succeededHeading": "Contraseña restablecida",
       "succeededSubtitle": "Tu contraseña ha sido cambiada exitosamente",
-      "succeededSignIn": "Inicia sesión con tu nueva contraseña"
+      "succeededSignIn": "Inicia sesión con tu nueva contraseña",
+      "passwordPlaceholder": "Elige una nueva contraseña",
+      "confirmPasswordPlaceholder": "Escríbela otra vez"
     },
     "confirmEmail": {
       "title": "Confirmar correo",
@@ -76,7 +88,11 @@
       "note": "Haz clic en el enlace del correo para activar tu cuenta. Si no lo ves, revisa tu carpeta de spam.",
       "resendPrompt": "¿No lo recibiste?",
       "resend": "Reenviar correo de confirmación",
-      "backToSignIn": "Volver al inicio de sesión"
+      "backToSignIn": "Volver al inicio de sesión",
+      "existingNote": "Ya habías empezado a registrarte con este correo electrónico, así que te hemos enviado un nuevo enlace.",
+      "existingResetPrompt": "¿No recuerdas la contraseña que elegiste?",
+      "existingReset": "Elige una nueva",
+      "failed": "No hemos podido enviar el correo. Inténtalo de nuevo en un minuto."
     },
     "resendConfirmation": {
       "title": "Reenviar confirmación",

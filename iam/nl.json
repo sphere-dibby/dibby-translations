@@ -21,7 +21,12 @@
       "passkey": "Inloggen met een passkey",
       "passkeyFailed": "Die passkey kon niet worden gebruikt. Probeer het opnieuw, of log in met je wachtwoord.",
       "lockedOut": "Te veel mislukte pogingen. Probeer het over 15 minuten opnieuw.",
-      "appSignIn": "Inloggen met de Dibby-app"
+      "appSignIn": "Inloggen met de Dibby-app",
+      "invalid": "Onjuist e-mailadres of wachtwoord.",
+      "unconfirmed": "Bevestig eerst je e-mailadres voordat je inlogt.",
+      "unconfirmedSent": "Je e-mailadres is nog niet bevestigd. We hebben een nieuwe bevestigingslink gestuurd naar {0}. Kijk ook in je spammap.",
+      "unconfirmedFailed": "Je e-mailadres is nog niet bevestigd, en we konden nu geen nieuwe link sturen. Probeer het over een minuut opnieuw.",
+      "passwordPlaceholder": "Je wachtwoord"
     },
     "register": {
       "title": "Registreren",
@@ -34,7 +39,12 @@
       "togglePassword": "Wachtwoord zichtbaarheid wisselen",
       "submit": "Registreren",
       "signInPrompt": "Heb je al een account?",
-      "signIn": "Inloggen"
+      "signIn": "Inloggen",
+      "passwordPlaceholder": "Kies een wachtwoord",
+      "confirmPasswordPlaceholder": "Typ het nog een keer",
+      "exists": "Er is al een Dibby-account met dit e-mailadres.",
+      "existsSignIn": "Inloggen",
+      "existsReset": "Wachtwoord opnieuw instellen"
     },
     "forgotPassword": {
       "title": "Wachtwoord vergeten",
@@ -58,7 +68,9 @@
       "backToSignIn": "Terug naar inloggen",
       "succeededHeading": "Wachtwoord opnieuw ingesteld",
       "succeededSubtitle": "Je wachtwoord is succesvol gewijzigd",
-      "succeededSignIn": "Inloggen met je nieuwe wachtwoord"
+      "succeededSignIn": "Inloggen met je nieuwe wachtwoord",
+      "passwordPlaceholder": "Kies een nieuw wachtwoord",
+      "confirmPasswordPlaceholder": "Typ het nog een keer"
     },
     "confirmEmail": {
       "title": "E-mail bevestigen",
@@ -76,7 +88,11 @@
       "note": "Klik op de link in de e-mail om je account te activeren. Als je hem niet ziet, controleer dan je spammap.",
       "resendPrompt": "Niet ontvangen?",
       "resend": "Bevestigingsmail opnieuw verzenden",
-      "backToSignIn": "Terug naar inloggen"
+      "backToSignIn": "Terug naar inloggen",
+      "existingNote": "Je was al begonnen met registreren met dit e-mailadres, dus we hebben je een nieuwe link gestuurd.",
+      "existingResetPrompt": "Weet je het gekozen wachtwoord niet meer?",
+      "existingReset": "Stel een nieuw in",
+      "failed": "We konden de e-mail nu niet versturen. Probeer het over een minuut opnieuw."
     },
     "resendConfirmation": {
       "title": "Bevestiging opnieuw verzenden",

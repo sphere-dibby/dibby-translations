@@ -21,7 +21,12 @@
       "passkey": "Sign in with a passkey",
       "passkeyFailed": "That passkey couldn't be used. Try again, or sign in with your password.",
       "lockedOut": "Too many failed attempts. Try again in 15 minutes.",
-      "appSignIn": "Sign in with the Dibby app"
+      "appSignIn": "Sign in with the Dibby app",
+      "invalid": "Invalid email or password.",
+      "unconfirmed": "Confirm your email before signing in.",
+      "unconfirmedSent": "Your email isn't confirmed yet. We've sent a new confirmation link to {0}. Check your spam folder too.",
+      "unconfirmedFailed": "Your email isn't confirmed yet, and we couldn't send a new link just now. Try again in a minute.",
+      "passwordPlaceholder": "Your password"
     },
     "register": {
       "title": "Register",
@@ -34,7 +39,12 @@
       "togglePassword": "Toggle password visibility",
       "submit": "Register",
       "signInPrompt": "Already have an account?",
-      "signIn": "Sign In"
+      "signIn": "Sign In",
+      "passwordPlaceholder": "Choose a password",
+      "confirmPasswordPlaceholder": "Type it again",
+      "exists": "There's already a Dibby account with this email.",
+      "existsSignIn": "Sign in",
+      "existsReset": "Reset your password"
     },
     "forgotPassword": {
       "title": "Forgot Password",
@@ -58,7 +68,9 @@
       "backToSignIn": "Back to Sign In",
       "succeededHeading": "Password reset",
       "succeededSubtitle": "Your password has been changed successfully",
-      "succeededSignIn": "Sign in with your new password"
+      "succeededSignIn": "Sign in with your new password",
+      "passwordPlaceholder": "Choose a new password",
+      "confirmPasswordPlaceholder": "Type it again"
     },
     "confirmEmail": {
       "title": "Confirm Email",
@@ -76,7 +88,11 @@
       "note": "Click the link in the email to activate your account. If you don't see it, check your spam folder.",
       "resendPrompt": "Didn't receive it?",
       "resend": "Resend confirmation email",
-      "backToSignIn": "Back to Sign In"
+      "backToSignIn": "Back to Sign In",
+      "existingNote": "You'd already started signing up with this email, so we've sent you a new link.",
+      "existingResetPrompt": "Don't remember the password you chose?",
+      "existingReset": "Set a new one",
+      "failed": "We couldn't send the email just now. Try again in a minute."
     },
     "resendConfirmation": {
       "title": "Resend Confirmation",
