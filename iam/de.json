@@ -21,7 +21,12 @@
       "passkey": "Mit einem Passkey anmelden",
       "passkeyFailed": "Dieser Passkey konnte nicht verwendet werden. Versuche es erneut oder melde dich mit deinem Passwort an.",
       "lockedOut": "Zu viele Fehlversuche. Versuche es in 15 Minuten erneut.",
-      "appSignIn": "Mit der Dibby-App anmelden"
+      "appSignIn": "Mit der Dibby-App anmelden",
+      "invalid": "E-Mail-Adresse oder Passwort ist falsch.",
+      "unconfirmed": "Bestätige zuerst deine E-Mail-Adresse, bevor du dich anmeldest.",
+      "unconfirmedSent": "Deine E-Mail-Adresse ist noch nicht bestätigt. Wir haben einen neuen Bestätigungslink an {0} gesendet. Sieh auch im Spam-Ordner nach.",
+      "unconfirmedFailed": "Deine E-Mail-Adresse ist noch nicht bestätigt, und wir konnten gerade keinen neuen Link senden. Versuche es in einer Minute erneut.",
+      "passwordPlaceholder": "Dein Passwort"
     },
     "register": {
       "title": "Registrieren",
@@ -34,7 +39,12 @@
       "togglePassword": "Passwort ein-/ausblenden",
       "submit": "Registrieren",
       "signInPrompt": "Haben Sie bereits ein Konto?",
-      "signIn": "Anmelden"
+      "signIn": "Anmelden",
+      "passwordPlaceholder": "Wähle ein Passwort",
+      "confirmPasswordPlaceholder": "Gib es noch einmal ein",
+      "exists": "Es gibt bereits ein Dibby-Konto mit dieser E-Mail-Adresse.",
+      "existsSignIn": "Anmelden",
+      "existsReset": "Passwort zurücksetzen"
     },
     "forgotPassword": {
       "title": "Passwort vergessen",
@@ -58,7 +68,9 @@
       "backToSignIn": "Zurück zur Anmeldung",
       "succeededHeading": "Passwort zurückgesetzt",
       "succeededSubtitle": "Ihr Passwort wurde erfolgreich geändert",
-      "succeededSignIn": "Mit neuem Passwort anmelden"
+      "succeededSignIn": "Mit neuem Passwort anmelden",
+      "passwordPlaceholder": "Wähle ein neues Passwort",
+      "confirmPasswordPlaceholder": "Gib es noch einmal ein"
     },
     "confirmEmail": {
       "title": "E-Mail bestätigen",
@@ -76,7 +88,11 @@
       "note": "Klicken Sie auf den Link in der E-Mail, um Ihr Konto zu aktivieren. Falls Sie ihn nicht sehen, prüfen Sie Ihren Spam-Ordner.",
       "resendPrompt": "Nicht erhalten?",
       "resend": "Bestätigungs-E-Mail erneut senden",
-      "backToSignIn": "Zurück zur Anmeldung"
+      "backToSignIn": "Zurück zur Anmeldung",
+      "existingNote": "Du hattest dich mit dieser E-Mail-Adresse schon angefangen zu registrieren, deshalb haben wir dir einen neuen Link gesendet.",
+      "existingResetPrompt": "Du weißt das gewählte Passwort nicht mehr?",
+      "existingReset": "Neues festlegen",
+      "failed": "Wir konnten die E-Mail gerade nicht senden. Versuche es in einer Minute erneut."
     },
     "resendConfirmation": {
       "title": "Bestätigung erneut senden",
