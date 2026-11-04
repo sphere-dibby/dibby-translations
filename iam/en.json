@@ -3,7 +3,7 @@
     "login": {
       "title": "Sign In",
       "heading": "Welcome back",
-      "subtitle": "Sign in to your DibbyIAM account",
+      "subtitle": "Sign in to your Dibby account",
       "email": "Email",
       "emailPlaceholder": "you@example.com",
       "password": "Password",
@@ -31,7 +31,7 @@
     "register": {
       "title": "Register",
       "heading": "Create account",
-      "subtitle": "Get started with DibbyIAM",
+      "subtitle": "Create your Dibby account",
       "email": "Email",
       "emailPlaceholder": "you@example.com",
       "password": "Password",
@@ -114,7 +114,8 @@
       "rememberClient": "Remember this device",
       "submit": "Verify",
       "recoveryPrompt": "Can't access your authenticator?",
-      "recovery": "Use a recovery code"
+      "recovery": "Use a recovery code",
+      "invalid": "That code isn't right. Please try again."
     },
     "loginWithRecoveryCode": {
       "title": "Recovery Code",
@@ -123,7 +124,8 @@
       "recoveryCode": "Recovery Code",
       "recoveryCodePlaceholder": "xxxxx-xxxxx",
       "submit": "Sign In",
-      "backTo2fa": "Back to authenticator code"
+      "backTo2fa": "Back to authenticator code",
+      "invalid": "That recovery code isn't right."
     },
     "addPasskey": {
       "title": "Faster sign-in",
@@ -173,6 +175,11 @@
       "notYou": "Not you?",
       "pushPrompt": "Or get a notification on your phone:",
       "pushSend": "Send"
+    },
+    "logout": {
+      "title": "Signed out",
+      "heading": "You're signed out.",
+      "home": "Back to the start"
     }
   },
   "consent": {
@@ -192,5 +199,26 @@
       "address": "See your saved addresses",
       "push_receipts": "Add receipts to your Dibby account"
     }
+  },
+  "validation": {
+    "required": "Please fill in this field.",
+    "email": "Enter a valid email address.",
+    "passwordLength": "Your password needs at least 8 characters.",
+    "passwordsDiffer": "The passwords don't match.",
+    "codeLength": "The code has 6 digits."
+  },
+  "identity": {
+    "DefaultError": "Something went wrong. Please try again.",
+    "ConcurrencyFailure": "Something changed in the meantime. Please try again.",
+    "PasswordMismatch": "That password isn't right.",
+    "InvalidToken": "This link has expired or was already used. Please request a new one.",
+    "InvalidEmail": "This email address isn't valid.",
+    "DuplicateEmail": "There's already a Dibby account with this email address.",
+    "PasswordTooShort": "Your password needs at least {0} characters.",
+    "PasswordRequiresUniqueChars": "Your password needs at least {0} different characters.",
+    "PasswordRequiresNonAlphanumeric": "Your password needs at least one symbol, like ! or -.",
+    "PasswordRequiresDigit": "Your password needs at least one digit (0–9).",
+    "PasswordRequiresLower": "Your password needs at least one lowercase letter (a–z).",
+    "PasswordRequiresUpper": "Your password needs at least one capital letter (A–Z)."
   }
 }

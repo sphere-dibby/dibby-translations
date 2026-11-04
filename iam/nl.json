@@ -3,7 +3,7 @@
     "login": {
       "title": "Inloggen",
       "heading": "Welkom terug",
-      "subtitle": "Log in op je DibbyIAM-account",
+      "subtitle": "Log in op je Dibby-account",
       "email": "E-mail",
       "emailPlaceholder": "jij@example.com",
       "password": "Wachtwoord",
@@ -31,7 +31,7 @@
     "register": {
       "title": "Registreren",
       "heading": "Account aanmaken",
-      "subtitle": "Begin met DibbyIAM",
+      "subtitle": "Maak je Dibby-account aan",
       "email": "E-mail",
       "emailPlaceholder": "jij@example.com",
       "password": "Wachtwoord",
@@ -114,7 +114,8 @@
       "rememberClient": "Dit apparaat onthouden",
       "submit": "Verifiëren",
       "recoveryPrompt": "Geen toegang tot je authenticator?",
-      "recovery": "Gebruik een herstelcode"
+      "recovery": "Gebruik een herstelcode",
+      "invalid": "Die code klopt niet. Probeer het opnieuw."
     },
     "loginWithRecoveryCode": {
       "title": "Herstelcode",
@@ -123,7 +124,8 @@
       "recoveryCode": "Herstelcode",
       "recoveryCodePlaceholder": "xxxxx-xxxxx",
       "submit": "Inloggen",
-      "backTo2fa": "Terug naar authenticatorcode"
+      "backTo2fa": "Terug naar authenticatorcode",
+      "invalid": "Die herstelcode klopt niet."
     },
     "addPasskey": {
       "title": "Sneller inloggen",
@@ -173,6 +175,11 @@
       "notYou": "Niet jij?",
       "pushPrompt": "Of krijg een melding op je telefoon:",
       "pushSend": "Versturen"
+    },
+    "logout": {
+      "title": "Uitgelogd",
+      "heading": "Je bent uitgelogd.",
+      "home": "Terug naar het begin"
     }
   },
   "consent": {
@@ -192,5 +199,26 @@
       "address": "Je opgeslagen adressen zien",
       "push_receipts": "Bonnetjes toevoegen aan je Dibby-account"
     }
+  },
+  "validation": {
+    "required": "Vul dit veld in.",
+    "email": "Vul een geldig e-mailadres in.",
+    "passwordLength": "Je wachtwoord moet minstens 8 tekens hebben.",
+    "passwordsDiffer": "De wachtwoorden komen niet overeen.",
+    "codeLength": "De code heeft 6 cijfers."
+  },
+  "identity": {
+    "DefaultError": "Er ging iets mis. Probeer het opnieuw.",
+    "ConcurrencyFailure": "Er is intussen iets veranderd. Probeer het opnieuw.",
+    "PasswordMismatch": "Dat wachtwoord klopt niet.",
+    "InvalidToken": "Deze link is verlopen of al gebruikt. Vraag een nieuwe aan.",
+    "InvalidEmail": "Dit e-mailadres is niet geldig.",
+    "DuplicateEmail": "Er is al een Dibby-account met dit e-mailadres.",
+    "PasswordTooShort": "Je wachtwoord moet minstens {0} tekens hebben.",
+    "PasswordRequiresUniqueChars": "Je wachtwoord moet minstens {0} verschillende tekens hebben.",
+    "PasswordRequiresNonAlphanumeric": "Je wachtwoord moet minstens één symbool hebben, zoals ! of -.",
+    "PasswordRequiresDigit": "Je wachtwoord moet minstens één cijfer hebben (0–9).",
+    "PasswordRequiresLower": "Je wachtwoord moet minstens één kleine letter hebben (a–z).",
+    "PasswordRequiresUpper": "Je wachtwoord moet minstens één hoofdletter hebben (A–Z)."
   }
 }
