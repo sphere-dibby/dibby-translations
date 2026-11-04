@@ -3,7 +3,7 @@
     "login": {
       "title": "Se connecter",
       "heading": "Bon retour",
-      "subtitle": "Connectez-vous à votre compte DibbyIAM",
+      "subtitle": "Connectez-vous à votre compte Dibby",
       "email": "E-mail",
       "emailPlaceholder": "vous@exemple.com",
       "password": "Mot de passe",
@@ -31,7 +31,7 @@
     "register": {
       "title": "S'inscrire",
       "heading": "Créer un compte",
-      "subtitle": "Commencez avec DibbyIAM",
+      "subtitle": "Créez votre compte Dibby",
       "email": "E-mail",
       "emailPlaceholder": "vous@exemple.com",
       "password": "Mot de passe",
@@ -114,7 +114,8 @@
       "rememberClient": "Se souvenir de cet appareil",
       "submit": "Vérifier",
       "recoveryPrompt": "Vous n'avez plus accès à votre application ?",
-      "recovery": "Utiliser un code de récupération"
+      "recovery": "Utiliser un code de récupération",
+      "invalid": "Ce code n'est pas correct. Veuillez réessayer."
     },
     "loginWithRecoveryCode": {
       "title": "Code de récupération",
@@ -123,7 +124,8 @@
       "recoveryCode": "Code de récupération",
       "recoveryCodePlaceholder": "xxxxx-xxxxx",
       "submit": "Se connecter",
-      "backTo2fa": "Retour au code d'authentification"
+      "backTo2fa": "Retour au code d'authentification",
+      "invalid": "Ce code de récupération n'est pas correct."
     },
     "addPasskey": {
       "title": "Connexion plus rapide",
@@ -173,6 +175,11 @@
       "notYou": "Ce n'est pas vous ?",
       "pushPrompt": "Ou recevez une notification sur votre téléphone :",
       "pushSend": "Envoyer"
+    },
+    "logout": {
+      "title": "Déconnecté",
+      "heading": "Vous êtes déconnecté.",
+      "home": "Retour à l'accueil"
     }
   },
   "consent": {
@@ -192,5 +199,26 @@
       "address": "Voir vos adresses enregistrées",
       "push_receipts": "Ajouter des reçus à votre compte Dibby"
     }
+  },
+  "validation": {
+    "required": "Veuillez remplir ce champ.",
+    "email": "Saisissez une adresse e-mail valide.",
+    "passwordLength": "Votre mot de passe doit contenir au moins 8 caractères.",
+    "passwordsDiffer": "Les mots de passe ne correspondent pas.",
+    "codeLength": "Le code comporte 6 chiffres."
+  },
+  "identity": {
+    "DefaultError": "Une erreur s'est produite. Veuillez réessayer.",
+    "ConcurrencyFailure": "Quelque chose a changé entre-temps. Veuillez réessayer.",
+    "PasswordMismatch": "Ce mot de passe n'est pas correct.",
+    "InvalidToken": "Ce lien a expiré ou a déjà été utilisé. Veuillez en demander un nouveau.",
+    "InvalidEmail": "Cette adresse e-mail n'est pas valide.",
+    "DuplicateEmail": "Un compte Dibby existe déjà avec cette adresse e-mail.",
+    "PasswordTooShort": "Votre mot de passe doit contenir au moins {0} caractères.",
+    "PasswordRequiresUniqueChars": "Votre mot de passe doit contenir au moins {0} caractères différents.",
+    "PasswordRequiresNonAlphanumeric": "Votre mot de passe doit contenir au moins un symbole, comme ! ou -.",
+    "PasswordRequiresDigit": "Votre mot de passe doit contenir au moins un chiffre (0–9).",
+    "PasswordRequiresLower": "Votre mot de passe doit contenir au moins une lettre minuscule (a–z).",
+    "PasswordRequiresUpper": "Votre mot de passe doit contenir au moins une lettre majuscule (A–Z)."
   }
 }

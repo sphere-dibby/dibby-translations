@@ -3,7 +3,7 @@
     "login": {
       "title": "Anmelden",
       "heading": "Willkommen zurück",
-      "subtitle": "Melden Sie sich bei Ihrem DibbyIAM-Konto an",
+      "subtitle": "Melde dich bei deinem Dibby-Konto an",
       "email": "E-Mail",
       "emailPlaceholder": "sie@beispiel.com",
       "password": "Passwort",
@@ -31,7 +31,7 @@
     "register": {
       "title": "Registrieren",
       "heading": "Konto erstellen",
-      "subtitle": "Starten Sie mit DibbyIAM",
+      "subtitle": "Erstelle dein Dibby-Konto",
       "email": "E-Mail",
       "emailPlaceholder": "sie@beispiel.com",
       "password": "Passwort",
@@ -114,7 +114,8 @@
       "rememberClient": "Dieses Gerät merken",
       "submit": "Bestätigen",
       "recoveryPrompt": "Keinen Zugriff auf Ihren Authentifikator?",
-      "recovery": "Wiederherstellungscode verwenden"
+      "recovery": "Wiederherstellungscode verwenden",
+      "invalid": "Dieser Code stimmt nicht. Bitte versuch es noch einmal."
     },
     "loginWithRecoveryCode": {
       "title": "Wiederherstellungscode",
@@ -123,7 +124,8 @@
       "recoveryCode": "Wiederherstellungscode",
       "recoveryCodePlaceholder": "xxxxx-xxxxx",
       "submit": "Anmelden",
-      "backTo2fa": "Zurück zum Authentifikator-Code"
+      "backTo2fa": "Zurück zum Authentifikator-Code",
+      "invalid": "Dieser Wiederherstellungscode stimmt nicht."
     },
     "addPasskey": {
       "title": "Schneller anmelden",
@@ -173,6 +175,11 @@
       "notYou": "Nicht du?",
       "pushPrompt": "Oder erhalte eine Mitteilung auf deinem Handy:",
       "pushSend": "Senden"
+    },
+    "logout": {
+      "title": "Abgemeldet",
+      "heading": "Du bist abgemeldet.",
+      "home": "Zurück zum Anfang"
     }
   },
   "consent": {
@@ -192,5 +199,26 @@
       "address": "Ihre gespeicherten Adressen sehen",
       "push_receipts": "Belege zu Ihrem Dibby-Konto hinzufügen"
     }
+  },
+  "validation": {
+    "required": "Bitte füll dieses Feld aus.",
+    "email": "Gib eine gültige E-Mail-Adresse ein.",
+    "passwordLength": "Dein Passwort braucht mindestens 8 Zeichen.",
+    "passwordsDiffer": "Die Passwörter stimmen nicht überein.",
+    "codeLength": "Der Code hat 6 Ziffern."
+  },
+  "identity": {
+    "DefaultError": "Etwas ist schiefgelaufen. Bitte versuch es noch einmal.",
+    "ConcurrencyFailure": "In der Zwischenzeit hat sich etwas geändert. Bitte versuch es noch einmal.",
+    "PasswordMismatch": "Dieses Passwort stimmt nicht.",
+    "InvalidToken": "Dieser Link ist abgelaufen oder wurde schon benutzt. Fordere einen neuen an.",
+    "InvalidEmail": "Diese E-Mail-Adresse ist nicht gültig.",
+    "DuplicateEmail": "Es gibt bereits ein Dibby-Konto mit dieser E-Mail-Adresse.",
+    "PasswordTooShort": "Dein Passwort braucht mindestens {0} Zeichen.",
+    "PasswordRequiresUniqueChars": "Dein Passwort braucht mindestens {0} verschiedene Zeichen.",
+    "PasswordRequiresNonAlphanumeric": "Dein Passwort braucht mindestens ein Sonderzeichen, z. B. ! oder -.",
+    "PasswordRequiresDigit": "Dein Passwort braucht mindestens eine Ziffer (0–9).",
+    "PasswordRequiresLower": "Dein Passwort braucht mindestens einen Kleinbuchstaben (a–z).",
+    "PasswordRequiresUpper": "Dein Passwort braucht mindestens einen Großbuchstaben (A–Z)."
   }
 }
