@@ -103,6 +103,8 @@
       "addDate": "Datum toevoegen",
       "noCategory": "Geen",
       "addItem": "Artikel toevoegen",
+      "deleteItem": "Artikel verwijderen",
+      "deleteItemNamed": "{{description}} verwijderen",
       "itemDescription": "Omschrijving",
       "itemAmount": "Bedrag",
       "itemQuantity": "Aantal",
