@@ -103,6 +103,8 @@
       "addDate": "Add date",
       "noCategory": "None",
       "addItem": "Add item",
+      "deleteItem": "Delete item",
+      "deleteItemNamed": "Delete {{description}}",
       "itemDescription": "Description",
       "itemAmount": "Amount",
       "itemQuantity": "Qty",
